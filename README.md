@@ -14,7 +14,7 @@ Google Colab(ブラウザだけで Python が動くサービス)で、だれで�
 | # | ノート | 内容 | 開く |
 |---|---|---|---|
 | 01 | [データをながめてみよう](notebooks/01_data_overview.ipynb) | 表の大きさ、ヒストグラム、箱ひげ図 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cogproject/stats-ml-bio-study/blob/main/notebooks/01_data_overview.ipynb) |
-| 02 | 似た動きをさがそう(相関) | 相関と因果のちがい | 準備中 |
+| 02 | [似た動きをさがそう(相関)](notebooks/02_correlation.ipynb) | 散布図、相関係数、ヒートマップ、相関と因果のちがい | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cogproject/stats-ml-bio-study/blob/main/notebooks/02_correlation.ipynb) |
 | 03 | データをまとめて地図にしよう(主成分分析) | | 準備中 |
 | 04 | なかま分けしよう(クラスター分析) | | 準備中 |
 
